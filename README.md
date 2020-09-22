@@ -6,6 +6,8 @@
   
 2. :book: [C0.2 Cuestionario I4.0](blog/C0.2_EdyCota_Dream_Team.md)
 
+3. :book: [C1.1_ElectronicaBasica_y_elementos](blog/C1.1_ElectronicaBasica_y_elementos.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesus Manuel
