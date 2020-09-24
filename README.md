@@ -8,6 +8,8 @@
 
 3. :book: [C1.1_ElectronicaBasica_y_elementos](blog/C1.1_ElectronicaBasica_y_elementos.md)
 
+4. :book: [C1.2_ElectronicaBasica_circuitos.md](blog/C1.2_EdyCota_Dream_Team.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesus Manuel
