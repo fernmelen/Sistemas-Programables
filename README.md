@@ -10,6 +10,8 @@
 
 4. :book: [C1.2_ElectronicaBasica_circuitos.md](blog/C1.2_EdyCota_Dream_Team.md)
 
+4. :book: [C1.3_CircuitoDivisorVoltaje](blog/C1.3_EdyCota_DreamTeam.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesus Manuel
