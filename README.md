@@ -12,6 +12,8 @@
 
 4. :book: [C1.3_CircuitoDivisorVoltaje](blog/C1.3_EdyCota_DreamTeam.md)
 
+5. :book: [A1.2. Sensor_FotoResistivo.md](docs/A1.2_CotaVillaEdyJesusManuel.md)
+
 ---
 ## :turtle: Acerca de mi
 Nombre: Cota Villa Edy Jesus Manuel
